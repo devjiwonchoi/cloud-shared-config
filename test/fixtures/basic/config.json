@@ -1,0 +1,8 @@
+{
+  "configs": [
+    {
+      "filename": "a.txt",
+      "content": "Hello, World!"
+    }
+  ]
+}
