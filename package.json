@@ -6,5 +6,8 @@
     "config"
   ],
   "author": "Jiwon Choi",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.16"
+  }
 }
