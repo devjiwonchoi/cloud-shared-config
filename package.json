@@ -1,0 +1,10 @@
+{
+  "name": "cloud-shared-config",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "config"
+  ],
+  "author": "Jiwon Choi",
+  "license": "MIT"
+}
